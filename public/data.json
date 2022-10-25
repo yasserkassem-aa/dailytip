@@ -1,0 +1,37 @@
+{
+    "payload": {
+        "data": {
+            "20221024": {
+                "label": {
+                    "en": "Day 1",
+                    "ar": "اليوم 1"
+                },
+                "links": [
+                    "https://aa-test-fbe2e.web.app/?key=20221024&index=0&lang={lang}",
+                    "https://aa-test-fbe2e.web.app/?key=20221024&index=1&lang={lang}"
+                ]
+            },
+            "20221025": {
+                "label": {
+                    "en": "Day 2",
+                    "ar": "اليوم 2"
+                },
+                "links": [
+                    "https://aa-test-fbe2e.web.app/?key=20221025&index=0&lang={lang}",
+                    "https://aa-test-fbe2e.web.app/?key=20221025&index=1&lang={lang}",
+                    "https://aa-test-fbe2e.web.app/?key=20221025&index=2&lang={lang}"
+                ]
+            },
+            "20221026": {
+                "label": {
+                    "en": "Day 3",
+                    "ar": "اليوم 3"
+                },
+                "links": [
+                    "https://aa-test-fbe2e.web.app/?key=20221026&index=0&lang={lang}",
+                    "https://aa-test-fbe2e.web.app/?key=20221026&index=1&lang={lang}"
+                ]
+            }
+        }
+    }
+}
